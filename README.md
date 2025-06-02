@@ -1,6 +1,6 @@
 # 🐉Turtle DragonFlight SA
 - Historial de Cambios completo de [Turtle-Dragonflight](https://github.com/TonyG-Bot/Turtle-DragonFlight_SA) para el servidor de **Turtle WoW SA**.
-- No soy desarrollador, asi que si tengo algún error en las modificacciones hacermelo saber, Gracias.
+- No soy desarrollador, asi que si tengo algún error en las modificaciones hacermelo saber, Gracias.
 - [Soluciones para error all-in-one-bag de Turtle Dragonflight](https://saforum.turtle-wow.org/viewtopic.php?f=18&t=139), Gracias Erziok.
 
 # 🐢 🐉 tDF (Turtle Dragonflight)
