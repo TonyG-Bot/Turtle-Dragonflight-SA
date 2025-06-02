@@ -1,5 +1,7 @@
 # 🐉Turtle DragonFlight SA
-Historial de Cambios completo de [Turtle-Dragonflight](https://github.com/TonyG-Bot/Turtle-DragonFlight_SA) para el servidor de **Turtle WoW SA**.
+- Historial de Cambios completo de [Turtle-Dragonflight](https://github.com/TonyG-Bot/Turtle-DragonFlight_SA) para el servidor de **Turtle WoW SA**.
+- No soy desarrollador, asi que si tengo algún error en las modificacciones hacermelo saber, Gracias.
+- [Soluciones para error all-in-one-bag de Turtle Dragonflight](https://saforum.turtle-wow.org/viewtopic.php?f=18&t=139), Gracias Erziok.
 
 # 🐢 🐉 tDF (Turtle Dragonflight)
 ![GitHub Release](https://img.shields.io/github/v/release/TheLinuxITGuy/Turtle-Dragonflight?style=for-the-badge&labelColor=%231A365D&color=%23E9FC12)
