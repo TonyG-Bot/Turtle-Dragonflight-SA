@@ -2,6 +2,10 @@
 - Historial de Cambios completo de [Turtle-Dragonflight](https://github.com/TonyG-Bot/Turtle-DragonFlight_SA) para el servidor de **Turtle WoW SA**.
 - No soy desarrollador, asi que si tengo algún error en las modificaciones hacermelo saber, Gracias.
 - [Soluciones para error all-in-one-bag de Turtle Dragonflight](https://saforum.turtle-wow.org/viewtopic.php?f=18&t=139), Gracias Erziok.
+- Recomiendo usar [DragonflightReloaded
+](https://github.com/MtxGrower33/DragonflightReloaded) es una version mejorada de la interfaz de DragonFlight y con compatibilidad con ShaguTweaks, esta version no tiene modulo de bolsas asi que tendras que usar un addon por separado, recomendado BagShui.
+- Si no te gusta BagShui con su configuracion default ve esta [guia](https://github.com/veechs/Bagshui/wiki/FAQ#how-do-i-switch-to-the-onebag-style-layout) de como configurarlo para que se paresca mas a Bagnon.
+- Si juegas en español puedes usar [ShaguTweaks](https://github.com/TonyG-Bot/ShaguTweaks-SA) con algunas traducciones editadas para que funcionen los temporizadores en debuffs y tambien algunas barras de casteo en el target.
 
 # 🐢 🐉 tDF (Turtle Dragonflight)
 ![GitHub Release](https://img.shields.io/github/v/release/TheLinuxITGuy/Turtle-Dragonflight?style=for-the-badge&labelColor=%231A365D&color=%23E9FC12)
