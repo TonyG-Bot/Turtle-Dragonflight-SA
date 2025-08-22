@@ -1,7 +1,7 @@
 ## Interface: 11200
-## Title: |cff008000Turtle |cff1974d2Dragonflight
-## Author: Youtube.com/@TheLinuxITGuy
-## Notes: The Dragonflight UI for Turtle WoW.
+## Title: |cff008000Turtle |cff1974d2Dragonflight SA
+## Author: Youtube.com/@TheLinuxITGuy, TonyG-Bot
+## Notes: Versión modificada de Dragonflight UI para Turtle WoW SA (Español-esES).
 ## Version: 3.0
 ## DefaultState: enabled
 ## SavedVariables: SUCC_bagOptions
