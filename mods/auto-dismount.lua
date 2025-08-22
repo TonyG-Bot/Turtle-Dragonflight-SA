@@ -35,6 +35,12 @@ module.enable = function(self)
     "Riding",
     "根据骑术技能提高速度。",
     "又慢又稳......",
+	
+	-- turtle-wow SA
+	"Lento y constante...",
+	"Aumenta la velocidad según tu habilidad de Montar.",
+	"Aumenta la velocidad según tu habilidad de Equitación.",
+	
   }
 
   -- shapeshift buff icons
