@@ -257,7 +257,7 @@ end
 
 local advanced = CreateFrame("Button", "GameMenuButtonAdvancedOptions", GameMenuFrame, "GameMenuButtonTemplate")
 advanced:SetPoint("TOP", GameMenuButtonUIOptions, "BOTTOM", 0, -1)
-advanced:SetText(T["|cff008000t|cff1974d2DF"] .. " |cffffffffOptions" .. "|cff1974d2*")
+advanced:SetText(T["|cff008000t|cff1974d2DF"] .. T[" |cffffffffOptions"] .. "|cff1974d2*")
 --|cff008000Turtle |cff1974d2Dragonflight
 advanced:SetScript("OnClick", function()
   HideUIPanel(GameMenuFrame)
